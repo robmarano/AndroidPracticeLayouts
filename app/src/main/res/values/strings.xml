@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPracticeLayouts</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="myText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ullamcorper ante, sed sagittis ex. Fusce orci ipsum, fermentum at nunc non, ultricies viverra erat. Aenean nec mi justo. Proin non turpis eget massa auctor elementum nec non enim. Praesent at euismod arcu, quis tincidunt ligula. Duis id vestibulum purus. Donec ante leo, venenatis eu lacinia in, venenatis at est.
+
+Aliquam id enim sed nisi vulputate elementum et nec nibh. Nulla non ex erat. Praesent nec dapibus odio. Quisque nec dolor ut ex viverra pulvinar. Curabitur fringilla in magna quis mattis. Fusce vitae dignissim sem. Morbi tincidunt purus purus, sed pulvinar ex venenatis at. Vestibulum sed est ut sapien faucibus lacinia. Nam aliquam nulla sit amet lectus eleifend suscipit. Proin sollicitudin mi id magna finibus hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur ultricies, neque sit amet varius malesuada, velit tortor gravida ex, ac pulvinar metus odio eget dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse nunc eros, pharetra et sodales ac, scelerisque eget tellus. Donec quis porttitor nunc. Sed id turpis purus.</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
